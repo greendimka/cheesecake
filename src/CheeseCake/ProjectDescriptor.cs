@@ -4,7 +4,10 @@ using System.Text;
 
 namespace CheeseCake
 {
-    public class ProjectDescriptor
-    {
-    }
+	public class ProjectDescriptor
+	{
+
+		public string ProjectFilePath { get; set; }
+
+	}
 }
