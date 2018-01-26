@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheeseCake", "CheeseCake\CheeseCake.csproj", "{67FFF0C1-147B-4AEA-9960-170482266E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67FFF0C1-147B-4AEA-9960-170482266E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FFF0C1-147B-4AEA-9960-170482266E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FFF0C1-147B-4AEA-9960-170482266E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FFF0C1-147B-4AEA-9960-170482266E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E8EB63B-2B27-4AA9-AA93-4BCE42AE8F0C}
+	EndGlobalSection
+EndGlobal
